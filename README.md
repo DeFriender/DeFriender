@@ -6,7 +6,7 @@ My name is Alejandro Gonzales. I am a student at Chabot College.
 - Email: gonzalesalejandroams@gmail.com 
 - LinkedIn: https://www.linkedin.com/in/alejandro-gonzales-2k20/ 
 
-💻Coding Languages (Proficient): 
+💻Primary Coding Languages (Proficient): 
 - C++
 - Assembly
 
